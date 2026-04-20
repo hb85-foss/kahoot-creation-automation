@@ -3,7 +3,7 @@
 AI skill for generating Kahoot quizzes from transcripts, PDFs, notes, or lesson materials.
 [Live skill](KAHOOT_SKILL.md) | [Usage](#usage)
 
-**Note:** `KAHOOT_SKILL.md` is currently geared mainly towards EFL use. It can later be adapted for other contexts with `KAHOOT_SKILL_EDIT.md`.
+**Note:** `KAHOOT_SKILL.md` is currently geared mainly towards EFL use. It can later be adapted by adding `KAHOOT_SKILL.md` **and** 'KAHOOT_SKILL_EDIT.md' to a chat and prompting "run edit file".
 
 ## ✨ Features
 - Drag MD + source file into Perplexity/Claude.
@@ -22,7 +22,7 @@ Works with machine-readable files like PDFs/transcripts of Youtube videos, etc.
 ## 🛠 Workflow
 1. **Clarify settings**.
 2. **Preview questions/answers**.
-3. **Generate XLSX**.[file:24]
+3. **Generate XLSX**.
 
 ## 📄 License
 MIT. [LICENSE](LICENSE)
