@@ -3,7 +3,7 @@
 AI skill for generating Kahoot quizzes from transcripts, PDFs, notes, or lesson materials.
 [Live skill](KAHOOT_SKILL.md) | [Usage](#usage)
 
-**Note:** `KAHOOT_SKILL.md` is currently geared mainly towards EFL use. It can later be adapted by adding `KAHOOT_SKILL.md` **and** 'KAHOOT_SKILL_EDIT.md' to a chat and prompting "run edit file".
+**Note:** `KAHOOT_SKILL.md` is currently geared mainly towards EFL use. It can later be adapted by adding `KAHOOT_SKILL.md` **and** `KAHOOT_SKILL_EDIT.md` to a chat and prompting "run edit file".
 
 ## ✨ Features
 - Drag MD + source file into Perplexity/Claude.
