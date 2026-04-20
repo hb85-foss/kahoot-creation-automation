@@ -12,9 +12,9 @@ AI skill for generating Kahoot quizzes from transcripts, PDFs, notes, or lesson 
 - Preview before export.
 
 ## 🚀 Quick Start
-1. Drag **KAHOOT_SKILL.md** into Perplexity/Claude.
+1. Drag **KAHOOT_SKILL.md** into Perplexity/Claude/Gemini/ChatGPT/Grok or any other platform which supports the creation of XLXS sheets.
 2. Drag **source material** (PDF, transcript, text file, etc.).
-3. Hit **Enter** (usually triggers skill) OR prompt: `"use the skill to kahoot the pdf"`.
+3. Type `"run skill"` and press enter.
 4. Respond to settings → Preview → Approve → XLSX + import guide.
 
 Works with machine-readable files like PDFs/transcripts of Youtube videos, etc.
